@@ -23,8 +23,7 @@ Convert any PDF into an audiobook with a simple and intuitive interface. This Py
 ├── sample.pdf             # Sample PDF to test audiobook conversion
 ├── output.mp3             # Output audio file (converted speech)
 ├── screenshots/           # Screenshot folder for proof and UI view
-│   ├── ui_upload.png      # Screenshot of file upload interface
-│   └── ...                # (You can add more UI proof here)
+│   ├── ui_upload.png      # Screenshot of file upload interface              
 ├── README.md              # Top-level project description and usage
 └── requirements.txt       # Required Python dependencies
 
